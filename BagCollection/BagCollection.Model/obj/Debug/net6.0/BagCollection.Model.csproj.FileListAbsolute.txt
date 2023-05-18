@@ -1,0 +1,12 @@
+D:\asp.net\BagCollection\BagCollection.Model\bin\Debug\net6.0\BagCollection.Model.deps.json
+D:\asp.net\BagCollection\BagCollection.Model\bin\Debug\net6.0\BagCollection.Model.dll
+D:\asp.net\BagCollection\BagCollection.Model\bin\Debug\net6.0\BagCollection.Model.pdb
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.csproj.AssemblyReference.cache
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.AssemblyInfoInputs.cache
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.AssemblyInfo.cs
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.csproj.CoreCompileInputs.cache
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.dll
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\refint\BagCollection.Model.dll
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\BagCollection.Model.pdb
+D:\asp.net\BagCollection\BagCollection.Model\obj\Debug\net6.0\ref\BagCollection.Model.dll

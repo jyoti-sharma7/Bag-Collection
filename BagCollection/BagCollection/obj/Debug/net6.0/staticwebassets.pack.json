@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BagCollection.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BagCollection.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\css\\BootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\BootswatchTheme.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\0c80ecf7-266c-4120-9ccb-a68de9f36dbd.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\0c80ecf7-266c-4120-9ccb-a68de9f36dbd.jfif"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\1089b701-b6bc-49f8-b280-9e878b7cb211.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\1089b701-b6bc-49f8-b280-9e878b7cb211.jfif"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\1846810f-4067-4c49-b598-27abc8aae697.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1846810f-4067-4c49-b598-27abc8aae697.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\249be522-4cc9-408a-8a69-c352fb42152d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\249be522-4cc9-408a-8a69-c352fb42152d.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\34bf9515-76e9-4637-9ff1-8cf63aedfa1e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\34bf9515-76e9-4637-9ff1-8cf63aedfa1e.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\4091166e-d139-4957-ae47-c7f3782c4119.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4091166e-d139-4957-ae47-c7f3782c4119.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\451dea0e-550a-4283-be7d-cf8ed61d9d1c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\451dea0e-550a-4283-be7d-cf8ed61d9d1c.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\5e8dad56-2618-4ab8-bbdd-368535971185.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5e8dad56-2618-4ab8-bbdd-368535971185.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\9f16e1f1-0ba6-4817-80b6-53ad0fdc58d9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\9f16e1f1-0ba6-4817-80b6-53ad0fdc58d9.webp"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\d58aee1a-852b-47c7-8d89-12e31f44b67e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d58aee1a-852b-47c7-8d89-12e31f44b67e.jpg"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\images\\products\\e0806f85-90b2-4564-b3de-5013c32762c9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\e0806f85-90b2-4564-b3de-5013c32762c9.webp"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\asp.net\\BagCollection\\BagCollection\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BagCollection.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BagCollection.props",
+      "PackagePath": "build\\BagCollection.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BagCollection.props",
+      "PackagePath": "buildMultiTargeting\\BagCollection.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BagCollection.props",
+      "PackagePath": "buildTransitive\\BagCollection.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
